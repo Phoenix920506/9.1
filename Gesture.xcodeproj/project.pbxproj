@@ -15,6 +15,7 @@
 		3F0AE68521AB8C52002B153F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F0AE68321AB8C52002B153F /* LaunchScreen.storyboard */; };
 		3F0AE69021AB8C52002B153F /* GestureTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0AE68F21AB8C52002B153F /* GestureTests.swift */; };
 		3F0AE69B21AB8C52002B153F /* GestureUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0AE69A21AB8C52002B153F /* GestureUITests.swift */; };
+		3F0AE6A921AB8CB4002B153F /* CircleView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F0AE6A821AB8CB4002B153F /* CircleView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		3F0AE69621AB8C52002B153F /* GestureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GestureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		3F0AE69A21AB8C52002B153F /* GestureUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GestureUITests.swift; sourceTree = "<group>"; };
 		3F0AE69C21AB8C52002B153F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F0AE6A821AB8CB4002B153F /* CircleView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CircleView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				3F0AE67721AB8C52002B153F /* AppDelegate.swift */,
 				3F0AE67921AB8C52002B153F /* ViewController.swift */,
 				3F0AE67B21AB8C52002B153F /* Main.storyboard */,
+				3F0AE6A821AB8CB4002B153F /* CircleView.swift */,
 				3F0AE68121AB8C52002B153F /* Assets.xcassets */,
 				3F0AE68321AB8C52002B153F /* LaunchScreen.storyboard */,
 				3F0AE68621AB8C52002B153F /* Info.plist */,
@@ -259,6 +262,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3F0AE6A921AB8CB4002B153F /* CircleView.swift in Sources */,
 				3F0AE67A21AB8C52002B153F /* ViewController.swift in Sources */,
 				3F0AE68021AB8C52002B153F /* Gesture.xcdatamodeld in Sources */,
 				3F0AE67821AB8C52002B153F /* AppDelegate.swift in Sources */,
